@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "iterator.h": "c",
+    "fluid_structs.h": "c",
+    "headers.h": "c",
+    "siminit.h": "c",
+    "spatiallookup.h": "c",
+    "definitions.h": "c",
+    "device_launch_parameters.h": "c",
+    "cstdint": "cpp"
+  }
+}
